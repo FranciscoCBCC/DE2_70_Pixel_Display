@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE2_70_Pixel_Display">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_CPU:cpu|de2_70_CPU_nios2_oci:the_de2_70_CPU_nios2_oci|de2_70_CPU_nios2_ocimem:the_de2_70_CPU_nios2_ocimem|de2_70_CPU_ociram_sp_ram_module:de2_70_CPU_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_k471.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_CPU:cpu|de2_70_CPU_register_bank_a_module:de2_70_CPU_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_gnf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_CPU:cpu|de2_70_CPU_register_bank_b_module:de2_70_CPU_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_hnf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_Dual_Clock_FIFO:dual_clock_fifo|dcfifo:Data_FIFO" CBX_FILE_NAME="dcfifo_5oj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_Onchip_Memory:onchip_memory|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8fc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_Pixel_Buffer_DMA:pixel_buffer_dma|scfifo:Image_Buffer" CBX_FILE_NAME="scfifo_70a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_70_Pixel_Display|de2_70:NiosII|de2_70_Pixel_Scaler:pixel_scaler|altera_up_video_scaler_multiply_height:Multiply_Height|scfifo:Multiply_Height_FIFO" CBX_FILE_NAME="scfifo_qd31.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,674 @@
+Archive member included because of file (symbol)
+
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o (alt_load)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o (alt_main)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o) (close)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o) (_do_ctors)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o) (_do_dtors)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o) (alt_errno)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o) (errno)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o) (__mulsi3)
+C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+_atexit0            0x190             c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x00204000         0x00000020
+Onchip_Memory    0x00204020         0x00003fe0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+                0x00204000                __alt_mem_Onchip_Memory = 0x204000
+
+.entry          0x00204000       0x20
+ *(.entry)
+ .entry         0x00204000       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+                0x00204000                __reset
+
+.exceptions     0x00204020        0x0
+                0x00204020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x00204020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x00204020                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x00204020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00204020      0xd10
+                0x00204020                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00204020       0x3c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+                0x00204020                _start
+ .text          0x0020405c      0x108 obj/default/main.o
+                0x0020405c                main
+                0x002040b4                VGA_box
+ .text          0x00204164       0xec C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+                0x00204164                alt_load
+ .text          0x00204250       0x50 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+                0x00204250                alt_main
+ .text          0x002042a0      0x288 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x002042a0                alt_irq_init
+                0x002042d4                alt_sys_init
+ .text          0x00204528      0x160 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+                0x00204528                close
+ .text          0x00204688       0x1c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x00204688                alt_dcache_flush_all
+ .text          0x002046a4       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x002046d0      0x114 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x002046d0                alt_dev_llist_insert
+ .text          0x002047e4       0x64 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x002047e4                _do_ctors
+ .text          0x00204848       0x64 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x00204848                _do_dtors
+ .text          0x002048ac        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x002048ac       0x1c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x002048ac                alt_icache_flush_all
+ .text          0x002048c8       0x78 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x002048c8                alt_release_fd
+ .text          0x00204940       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x00204940                altera_nios2_qsys_irq_init
+ .text          0x00204960       0x14 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x00204960                atexit
+ .text          0x00204974       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                0x00204974                exit
+ .text          0x002049ac        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .text          0x002049ac        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .text          0x002049ac      0x134 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                0x002049ac                __register_exitproc
+ .text          0x00204ae0      0x1b4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x00204ae4                __call_exitprocs
+ .text          0x00204c94       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x00204c94                __mulsi3
+ .text          0x00204ccc       0x60 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+                0x00204d0c                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x00204d2c                PROVIDE (__etext, ABSOLUTE (.))
+                0x00204d2c                PROVIDE (_etext, ABSOLUTE (.))
+                0x00204d2c                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x00204d2c                . = ALIGN (0x4)
+                0x00204d2c                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x00204d2c                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x00204d2c                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x00204d2c                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x00204d2c                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x00204d2c                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table)
+ *(.dynamic)
+                0x00204d2c                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x00204d2c        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x00204d30                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x00204d30                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x00204d30                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x00204d30                . = ALIGN (0x4)
+
+.rodata         0x00204d30       0x28
+                0x00204d30                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x00204d30                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00204d30       0x18 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x00204d48        0xc C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .rodata.str1.4
+                0x00204d54        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ *(.rodata1)
+                0x00204d58                . = ALIGN (0x4)
+                0x00204d58                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x00204d30                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00204d58      0x61c load address 0x00205374
+                0x00204d58                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00204d58                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00204d58        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .data          0x00204d58        0x0 obj/default/main.o
+ .data          0x00204d58        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x00204d58        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x00204d58       0x54 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x00204dac        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x00204dac        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x00204dac      0x1a8 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00204dac                alt_dev_null
+                0x00204dd4                alt_fd_list
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x00204f54        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x00204f54        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .data          0x00204f54        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .data          0x00204f54      0x400 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .data          0x00205354        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .data          0x00205354        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .data          0x00205354        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .data          0x00205354        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x00205354        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0020d354                _gp = ABSOLUTE ((. + 0x8000))
+                0x0020d354                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x00205354       0x14 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00205354                alt_fs_list
+                0x0020535c                alt_dev_list
+                0x00205364                alt_max_fd
+ .sdata         0x00205368        0x4 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+                0x00205368                alt_errno
+ .sdata         0x0020536c        0x8 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                0x0020536c                _impure_ptr
+                0x00205370                _global_impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x00205374                . = ALIGN (0x4)
+                0x00205374                _edata = ABSOLUTE (.)
+                0x00205374                PROVIDE (edata, ABSOLUTE (.))
+                0x00205374                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x00205374                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x00205990      0x1a0
+                0x00205990                __bss_start = ABSOLUTE (.)
+                0x00205990                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x00205990                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x00205990        0xc C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+                0x00205990                alt_argc
+                0x00205994                alt_argv
+                0x00205998                alt_envp
+ .sbss          0x0020599c        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                0x0020599c                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x002059a0                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x002059a0                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .bss           0x002059a0        0x0 obj/default/main.o
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .bss           0x002059a0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x002059a0        0x0 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x002059a0      0x190 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x002059a0                _atexit0
+                0x00205b30                . = ALIGN (0x4)
+                0x00205b30                __bss_end = ABSOLUTE (.)
+
+.Onchip_Memory  0x00205b30        0x0
+                0x00205b30                PROVIDE (_alt_partition_Onchip_Memory_start, ABSOLUTE (.))
+ *(.Onchip_Memory. Onchip_Memory.*)
+                0x00205b30                . = ALIGN (0x4)
+                0x00205b30                PROVIDE (_alt_partition_Onchip_Memory_end, ABSOLUTE (.))
+                0x00205b30                _end = ABSOLUTE (.)
+                0x00205b30                end = ABSOLUTE (.)
+                0x00205b30                __alt_stack_base = ABSOLUTE (.)
+                0x00205b30                PROVIDE (_alt_partition_Onchip_Memory_load_addr, LOADADDR (.Onchip_Memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x26
+ *(.comment)
+ .comment       0x00000000       0x26 obj/default/main.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x288
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000028       0x20 obj/default/main.o
+ .debug_aranges
+                0x00000048       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x00000068       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000088       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x000000a8       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x000000c8       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x000000e8       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x00000108       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000128       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x00000148       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x00000168       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000188       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x000001a8       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x000001c8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x000001e8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000208       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000228       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000248       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x00000268       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+                0x00000000      0x39c
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x27 obj/default/main.o
+ .debug_pubnames
+                0x00000027       0x1f C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_pubnames
+                0x00000046       0x46 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_pubnames
+                0x0000008c       0x34 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_pubnames
+                0x000000c0       0x1c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_pubnames
+                0x000000dc       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_pubnames
+                0x00000107       0x63 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_pubnames
+                0x0000016a       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_pubnames
+                0x00000195       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_pubnames
+                0x000001b5       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_pubnames
+                0x000001d5       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_pubnames
+                0x000001f5       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_pubnames
+                0x00000220       0x25 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_pubnames
+                0x00000245       0x31 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_pubnames
+                0x00000276       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_pubnames
+                0x000002a0       0x1b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_pubnames
+                0x000002bb       0x39 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_pubnames
+                0x000002f4       0x1c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_pubnames
+                0x00000310       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_pubnames
+                0x0000033a       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_pubnames
+                0x00000361       0x1f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_pubnames
+                0x00000380       0x1c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_info     0x00000000     0x514d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x7c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000007c      0x159 obj/default/main.o
+ .debug_info    0x000001d5      0x28e C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000463      0x26d C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x000006d0      0x62e C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00000cfe      0x468 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00001166      0x15d C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x000012c3      0x680 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00001943      0x2b8 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00001bfb      0x110 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x00001d0b      0x10f C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x00001e1a      0x165 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00001f7f      0x15d C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000020dc      0x3f3 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x000024cf      0x1ab C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x0000267a      0x181 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_info    0x000027fb      0x93f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_info    0x0000313a      0x93d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_info    0x00003a77       0x8c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_info    0x00003b03      0x99c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000449f      0x9e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00004e81       0xf3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x00004f74      0x1d9 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x1100
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000012       0x7b obj/default/main.o
+ .debug_abbrev  0x0000008d       0x88 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x00000115       0xbe C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x000001d3      0x131 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000304       0xfb C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x000003ff       0x3f C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000043e       0xc7 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00000505       0xf6 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x000005fb       0x76 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00000671       0x76 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x000006e7       0x5e C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000745       0x3f C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000784       0xc1 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00000845       0x64 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x000008a9       0xb7 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000960      0x16e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x00000ace      0x157 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000c25       0x3b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00000c60      0x1ae c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000e0e      0x1de c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000fec       0x7b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x00001067       0x99 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x2ae0
+ *(.debug_line)
+ .debug_line    0x00000000       0x66 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000066       0xc3 obj/default/main.o
+ .debug_line    0x00000129      0x217 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x00000340      0x2d6 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00000616      0x28c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x000008a2      0x299 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x00000b3b      0x1b5 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x00000cf0      0x254 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00000f44      0x25a C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x0000119e       0x83 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00001221       0x83 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x000012a4      0x1aa C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000144e      0x1b5 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x00001603       0xed C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x000016f0      0x1e7 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x000018d7      0x203 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_line    0x00001ada      0x23b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_line    0x00001d15      0x230 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_line    0x00001f45      0x1e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_line    0x00002127      0x316 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_line    0x0000243d      0x36a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000027a7      0x11a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x000028c1      0x21f C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0x418
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x48 obj/default/main.o
+ .debug_frame   0x00000048       0x48 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x00000090       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x000000bc       0x64 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000120       0x48 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000168       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x00000194       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000001c0       0x48 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000208       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x00000234       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x00000260       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000028c       0x30 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x000002bc       0x2c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x000002e8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000308       0x28 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000330       0x34 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000364       0x4c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000003b0       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x000003d0       0x48 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000      0x8b7
+ *(.debug_str)
+ .debug_str     0x00000000       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_str     0x00000012       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_str     0x00000024       0x2e C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_str     0x00000052       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_str     0x00000064       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_str     0x00000076       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_str     0x00000088       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_str     0x0000009a       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_str     0x000000ac       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_str     0x000000be       0x12 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_str     0x000000d0      0x187 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                                0x1cd (size before relaxing)
+ .debug_str     0x00000257      0x387 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                                0x51a (size before relaxing)
+ .debug_str     0x000005de       0xdf c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                                0x528 (size before relaxing)
+ .debug_str     0x000006bd       0x40 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                                0x171 (size before relaxing)
+ .debug_str     0x000006fd       0x54 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                                0x532 (size before relaxing)
+ .debug_str     0x00000751       0x7e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                                0x55c (size before relaxing)
+ .debug_str     0x000007cf       0xcc c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                0x175 (size before relaxing)
+ .debug_str     0x0000089b       0x1c C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_loc      0x00000000      0x71c
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x56 obj/default/main.o
+ .debug_loc     0x00000056       0x56 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_loc     0x000000ac       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_loc     0x000000d7       0x81 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x00000158       0x56 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_loc     0x000001ae       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_loc     0x000001d9       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_loc     0x00000204       0x56 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x0000025a       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_loc     0x00000285       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_loc     0x000002b0       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_loc     0x000002db       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_loc     0x00000306       0x2b C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x00000331       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_loc     0x0000034f       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_loc     0x0000038c      0x120 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x000004ac      0x1cb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000677       0x4f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x000006c6       0x56 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x10 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+                0x00208000                __alt_data_end = 0x208000
+                0x00208000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x00205b30                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x00205b30                PROVIDE (__alt_heap_start, end)
+                0x00208000                PROVIDE (__alt_heap_limit, 0x208000)
+OUTPUT(Teste.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000       0x38
+ .debug_ranges  0x00000000       0x20 C:/Users/Francisco/Desktop/DE2_70_Pixel_Display/Eclipse/software/Teste_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x00000020       0x18 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
